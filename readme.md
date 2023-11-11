@@ -50,7 +50,7 @@ Stage 2 - Plan
 
 For website features
 
-- Search by mixes on keywords, title and content using Levenstein Algorithm.
+- Search by mixes on keywords, title and content using Levenshtein Algorithm.
 - Public and Private documentation supported.
 
 ## Monitoring api
