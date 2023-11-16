@@ -2,6 +2,16 @@
 
 ## Bus timetable
 
+เว็บบันทึกตารางรถตู้ว่าคันไหนวิ่งช่วงกี่โมง วิ่งไปที่ไหน
+
+เครื่องมือที่ใช้พัฒนา
+
+- Angular v15 Web framework (Frontend)
+- .NET 7 (Backend)
+- PostgreSQL (Database)
+
+## Bus route management
+
 เว็บบับทึกตารางการเดินรถตามกะ และสามารถคิดคำนวณค่าใช้จ่ายได้ตามมาสเตอร์ที่ตั้งไว้
 
 Website bus timetable maintenance and can calculate cost according to master was set.
